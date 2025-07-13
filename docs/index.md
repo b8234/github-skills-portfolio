@@ -1,8 +1,5 @@
 ---
 title: GitHub Skills Portfolio – b8234
-layout: default
-theme: jekyll-theme-cayman
-description: Projects completed by b8234
 ---
 
 # GitHub Skills Portfolio – b8234
