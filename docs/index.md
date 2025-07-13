@@ -13,11 +13,11 @@ These projects reflect my commitment to staying technically fluent in the platfo
 ## CI/CD & GitHub Actions
 
 - [Hello GitHub Actions](https://github.com/b8234/skills-hello-github-actions)
-- [Test with Actions](https://github.com/YOURUSERNAME/github-actions-test) 
+- [Test with Actions - not complete](https://github.com/YOURUSERNAME/github-actions-test) 
 - [Publish Packages](https://github.com/b8234/skills-publish-packages)
 - [Deploy to Azure](https://github.com/b8234/skills-deploy-to-azure)
 - [Reusable Workflows](https://github.com/b8234/skills-reusable-workflows)
-- [Write JavaScript Actions](https://github.com/YOURUSERNAME/github-actions-javascript-action)
+- [Write JavaScript Actions - not complete](https://github.com/YOURUSERNAME/github-actions-javascript-action)
 
 ---
 
@@ -26,8 +26,8 @@ These projects reflect my commitment to staying technically fluent in the platfo
 - [Getting Started with Copilot](https://github.com/b8234/skills-getting-started-with-github-copilot)
 - [Your First Extension for Copilot](https://github.com/b8234/skills-your-first-extension-for-github-copilot)
 - [Integrate MCP with Copilot](https://github.com/b8234/skills-integrate-mcp-with-copilot)
-- [Copilot Coding Agent](https://github.com/YOURUSERNAME/github-copilot-coding-agent)
-- [Modernize Legacy Code with Copilot](https://github.com/YOURUSERNAME/github-copilot-modernize-legacy-code)
+- [Copilot Coding Agent - not complete](https://github.com/YOURUSERNAME/github-copilot-coding-agent)
+- [Modernize Legacy Code with Copilot - not complete](https://github.com/YOURUSERNAME/github-copilot-modernize-legacy-code)
 
 ---
 
@@ -36,7 +36,7 @@ These projects reflect my commitment to staying technically fluent in the platfo
 - [Introduction to CodeQL](https://github.com/b8234/skills-introduction-to-codeql)
 - [Secure Your Supply Chain](https://github.com/b8234/skills-secure-repository-supply-chain)
 - [Secret Scanning](https://github.com/b8234/skills-introduction-to-secret-scanning)
-- [Secure Code Game](https://github.com/YOURUSERNAME/github-secure-code-game)
+- [Secure Code Game - not complete](https://github.com/YOURUSERNAME/github-secure-code-game)
 
 ---
 
