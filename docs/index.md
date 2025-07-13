@@ -61,7 +61,7 @@ These projects reflect my commitment to staying technically fluent in the platfo
 
 ## About Me
 
-I'm a Solutions Architect with 12+ years of experience across sales, engineering, and architecture. I design and deliver scalable systems that integrate cloud-native services, machine learning models, and automation workflows — all aligned to real-world business outcomes.
+I'm a Solutions Architect with 12+ years of experience spanning technical sales, solution engineering, and cloud architecture. I design and deliver scalable systems that integrate cloud-native services, machine learning models, and automation workflows — all aligned to real-world business outcomes.
 
 This GitHub Skills portfolio reflects my commitment to staying hands-on with the tools and practices my customers rely on — including GitHub Actions, Copilot, CI/CD pipelines, secure software delivery, and LLM-powered automation. These projects complement my work designing applied AI solutions that automate document processing, extract structured data, and support smarter, real-time decision-making.
 
