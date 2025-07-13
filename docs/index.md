@@ -1,9 +1,11 @@
 ---
-title: GitHub Skills Portfolio – Bryant Itonyo
+title: GitHub Skills Portfolio – b8234
 layout: default
+theme: jekyll-theme-cayman
+description: Projects completed by b8234
 ---
 
-# GitHub Skills Portfolio – Bryant Itonyo
+# GitHub Skills Portfolio – b8234
 
 Welcome! This page highlights a collection of hands-on GitHub Skills projects I've completed to stay sharp with the tools and workflows shaping modern software delivery.
 
