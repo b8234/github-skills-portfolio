@@ -26,8 +26,8 @@ These projects reflect my commitment to staying technically fluent in the platfo
 - [Getting Started with Copilot](https://github.com/b8234/skills-getting-started-with-github-copilot)
 - [Your First Extension for Copilot](https://github.com/b8234/skills-your-first-extension-for-github-copilot)
 - [Integrate MCP with Copilot](https://github.com/b8234/skills-integrate-mcp-with-copilot)
-- [Copilot Coding Agent - not complete](https://github.com/YOURUSERNAME/github-copilot-coding-agent)
-- [Modernize Legacy Code with Copilot - not complete](https://github.com/YOURUSERNAME/github-copilot-modernize-legacy-code)
+- [Copilot Coding Agent](https://github.com/b8234/skills-expand-your-team-with-copilot)
+- [Modernize Legacy Code with Copilot](https://github.com/b8234/skills-modernize-your-legacy-code-with-github-copilot)
 
 ---
 
