@@ -17,7 +17,7 @@ These projects reflect my commitment to staying technically fluent in the platfo
 - [Publish Packages](https://github.com/b8234/skills-publish-packages)
 - [Deploy to Azure](https://github.com/b8234/skills-deploy-to-azure)
 - [Reusable Workflows](https://github.com/b8234/skills-reusable-workflows)
-- [Write JavaScript Actions - not complete](https://github.com/YOURUSERNAME/github-actions-javascript-action)
+- [Write JavaScript Actions - not complete](https://github.com/b8234/skills-write-javascript-actions?tab=readme-ov-file)
 
 ---
 
