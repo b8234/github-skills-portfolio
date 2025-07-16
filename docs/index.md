@@ -13,7 +13,7 @@ These projects reflect my commitment to staying technically fluent in the platfo
 ## CI/CD & GitHub Actions
 
 - [Hello GitHub Actions](https://github.com/b8234/skills-hello-github-actions)
-- [Test with Actions - not complete](https://github.com/YOURUSERNAME/github-actions-test) 
+- [Test with Actions](https://github.com/b8234/skills-test-with-actions) 
 - [Publish Packages](https://github.com/b8234/skills-publish-packages)
 - [Deploy to Azure](https://github.com/b8234/skills-deploy-to-azure)
 - [Reusable Workflows](https://github.com/b8234/skills-reusable-workflows)
